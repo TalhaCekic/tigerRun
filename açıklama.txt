@@ -1,3 +1,0 @@
-  klasör unity dosyasıdır.
-
- rar dosyası oyunun buildlenmiş oynanabilir halidir.
