@@ -1,1 +1,3 @@
-oyunun buildlenmiş oynanabilir halidir.
+  klasör unity dosyasıdır.
+
+ rar dosyası oyunun buildlenmiş oynanabilir halidir.
